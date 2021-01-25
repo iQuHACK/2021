@@ -9,9 +9,43 @@ Keep in mind these ideas are open to the public and not regulated.
 All teams will have a git repository at `https://github.com/iQuHACK/2021_<team_name>`.
 The initial team name will just be `team##` (e.g. `team03`).
 
-### Workflow
+### Workflow (remote development)
+This is slightly easier if you don't want to spend any time installing packages locally.
+
+<img src="static/qbraid_logo.png" height=30px></img>
+**[qBraid](https://www.qbraid.com/)** has generously prepared a virtual environment with the above packages and dependencies installed as well as some tutorial jupyter notebooks.
+After you [create an account](https://account.qbraid.com/join), select the iQuHACK package and you’re ready to go!
+
+1. Make an account at https://account.qbraid.com/join 
+2. We are using learn.qbraid.com for iQuHACK. No need for an access key.
+3. Launch the iQuHACK environment (top right).
+
+To setup the repo:
+
+1. Select the "Clone Repo" icon.
+
+    <img src="static/step1.png" width=400px></img>
+
+2. Grab the clone URL from github and paste it in. Make sure to use https unless you are planning to customize to use ssh keys.
+
+3. Navigate into your newly cloned repository folder, then select the "Git" tab on the right.
+
+    <img src="static/step2.png" width=400px></img>
+
+4. First commit, you will need to enter your standard git config options if you haven't already.
+5. `push`/`pull` are available from the git tab with arrows above your nav panel. If you have set it up to use https, you will have to enter your user/password each time.
+
+    <img src="static/step3.png" width=350px></img>
+
+Note, this is your own unix user account and if you prefer a different setup (e.g. using ssh keys to avoid having to enter your password each time), feel free to set it up that way! Let us know if you'd like help or you get stuck.
+
+For questions/issues specifically about qBraid, you can contact them through email or slack.
+- contact@qbraid.com
+- `#qbraid` channel in our [event's slack](https://iquhack.slack.com)
+
+### Workflow (local development)
 1. Complete and submit the [team formation form](https://forms.gle/yhBwRT78Vtt1S5nL8).
-2. Clone your repository.
+2. You will get an invite to your repo. Clone your repository.
 3. Begin hacking!
 4. Before the submission deadline, make sure you push/merge your final work to the `main` branch. You will lose push permission right at the deadline.
 
@@ -48,12 +82,12 @@ Then you should be good to go. MacOS Catalina now uses `zsh` shell instead of `b
 - [iQuHACK site](https://www.iquise.mit.edu/iQuHACK)
 
 #### Resources
+
+All of these can be found in jupyter notebooks **already setup and ready to run** in your qbraid account!
+If you haven't yet, make an account ([see above](#workflow-remote-development)).
+
 - [D-Wave Tutorials](https://www.dwavesys.com/resources/tutorials)
 - [ionQ Technology](https://ionq.com/technology)
 - [Qiskit Tutorials](https://qiskit.org/learn/)
 - [Qiskit Examples](https://qiskit.org/experiments/)
 - [Cirq Tutorials](https://quantumai.google/cirq)
-
-<img src="static/qbraid_logo.png" height=30px></img>
-**[qBraid](https://www.qbraid.com/)** has generously prepared a virtual environment with the above packages and dependencies installed as well as some tutorial jupyter notebooks.
-After you [create an account](https://account.qbraid.com/join ), select the iQuHACK package and you’re ready to go!
