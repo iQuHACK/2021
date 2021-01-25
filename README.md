@@ -15,13 +15,15 @@ This is slightly easier if you don't want to spend any time installing packages 
 **[qBraid](https://www.qbraid.com/)** has generously prepared a virtual environment with the above packages and dependencies installed as well as some tutorial jupyter notebooks.
 After you [create an account](https://account.qbraid.com/join), select the iQuHACK package and you’re ready to go!
 
+1. Complete and submit the [team formation form](https://forms.gle/yhBwRT78Vtt1S5nL8).
+1. You will get an invitation to become a collaborator on your team's repository.
 1. Make an account at https://account.qbraid.com/join 
 2. We are using learn.qbraid.com for iQuHACK. No need for an access key.
 3. Launch the iQuHACK environment (top right).
 
 To setup the repo:
 
-1. Select the "Clone Repo" icon.
+1. In your home directory, select the "Clone Repo" icon (make sure you haven't navigated into "qbraid-tutorials", and if you have just navigate back to your home directory).
 
     <img src="static/step1.png" width=400px></img>
 
