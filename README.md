@@ -7,7 +7,6 @@ Keep in mind these ideas are open to the public and not regulated.
 
 ## Projects GitHub Instructions
 All teams will have a git repository at `https://github.com/iQuHACK/2021_<team_name>`.
-The initial team name will just be `team##` (e.g. `team03`).
 
 ### Workflow (remote development)
 This is slightly easier if you don't want to spend any time installing packages locally.
