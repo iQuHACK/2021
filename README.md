@@ -87,9 +87,9 @@ Then you should be good to go. MacOS Catalina now uses `zsh` shell instead of `b
 All of these can be found in jupyter notebooks **already setup and ready to run** in your qbraid account!
 If you haven't yet, make an account ([see above](#workflow-remote-development)).
 
-- [D-Wave Tutorials](https://www.dwavesys.com/resources/tutorials) qbraid-tutorials/Tutorials/[COMING SOON]
+- [D-Wave Tutorials](https://www.dwavesys.com/resources/tutorials) (`qbraid-tutorials/Tutorials/[COMING SOON]`)
 - [ionQ Technology](https://ionq.com/technology)
-- [Qiskit Tutorials](https://qiskit.org/learn/) qbraid-tutorials/Tutorials/ibm_tutorials/
+- [Qiskit Tutorials](https://qiskit.org/learn/) (`qbraid-tutorials/Tutorials/ibm_tutorials/`)
 - [Qiskit Examples](https://qiskit.org/experiments/)
-- [Cirq Tutorials](https://quantumai.google/cirq) qbraid-tutorials/Tutorials/google_tutorials/
-- [Bracket](https://docs.aws.amazon.com/braket/index.html) qbraid-tutorials/Tutorials/aws_tutorials/
+- [Cirq Tutorials](https://quantumai.google/cirq) (`qbraid-tutorials/Tutorials/google_tutorials/`)
+- [Bracket](https://docs.aws.amazon.com/braket/index.html) (`qbraid-tutorials/Tutorials/aws_tutorials/`)
