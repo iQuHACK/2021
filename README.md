@@ -8,6 +8,15 @@ Keep in mind these ideas are open to the public and not regulated.
 ## Projects GitHub Instructions
 All teams will have a git repository at `https://github.com/iQuHACK/2021_<team_name>`.
 
+### Do NOT commit private credentials or API keys
+Stick them in an environment file and add that file to your git ignore.
+If you need help with this, please reach out to us.
+
+If you do accidentally push a commit with any sensitive information let us know ASAP so we can help fix the situation.
+It is not enough to simply remove the file in another commit.
+
+### Repositories will become public at the end of the hackathon
+
 ### Workflow (remote development)
 This is slightly easier if you don't want to spend any time installing packages locally.
 
