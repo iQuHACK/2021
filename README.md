@@ -1,4 +1,19 @@
-# 2021
+# 2021 Post-Event Overview
+
+iQuHACK 2021, MIT's second annual quantum hackathon, had 219 participants (from 943 applicants) with 49 teams across 12 time zones, 29 countries, and 40 universities. What a weekend!
+
+* [QCB](https://github.com/iQuHACK/2021_QCB) was the overall winner.
+* [QriKET](https://github.com/iQuHACK/2021_QriKET) won the gate-based division.
+* [Algorhythms](https://github.com/iQuHACK/2021_Algorhythms) won the annealing division.
+* [Hybrid-Daemons](https://github.com/iQuHACK/2021_Hybrid-Daemons) won the hybrid division.
+* [Team 47](https://github.com/iQuHACK/2021_Team-47) won the IonQ challenge.
+* [patoLogic](https://github.com/iQuHACK/2021_patoLogic) won the D-Wave challenge.
+
+We would like to thank IonQ and D-Wave for providing the hardware and support during the hackathon. In addition we could not have done this without the sponsorship from Google, HRL Laboratories, Zapata, MIT's Center for Quantum Engineering, IBM-Q, and MIT-IBM Watson AI Lab. We also appreciate the support of the Research Laboratory of Electronics and the Department of Electrical Engineering & Computer Science at MIT. Finally, thank you to qBraid who provided an optional remote platform equipped with environments for all of our hardware sponsors. iQuHACK 2021 was presented by the Interdisciplinary Quantum Information Science and Engineering program (iQuISE, [iquise.mit.edu](https://www.iquise.mit.edu)); more information about the hackathon can be found at [iquhack.mit.edu](https://iquhack.mit.edu).
+
+---
+
+# 2021 Instructions
 ## Submit a new idea by opening a [new issue](https://github.com/iQuHACK/2021/issues/new "go to New Issue")
 
 [![Issue Help](static/issue_help.png)](https://github.com/iQuHACK/2021/issues "go to Issues")
